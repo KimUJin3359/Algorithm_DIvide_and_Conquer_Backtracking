@@ -1,4 +1,4 @@
-# Algorithm_DIvide_and_Conquer_Backtracking
+## Algorithm_DIvide_and_Conquer_Backtracking
 
 ### Divide and Conquer
 - 설계 전략
