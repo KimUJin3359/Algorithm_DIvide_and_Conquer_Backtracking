@@ -59,6 +59,9 @@
   - 원소들 간에 계층 관계를 가지는 계층형 자료구조
 - [이전 정리 내용](https://github.com/KimUJin3359/Algorithm_List-Tree#%ED%8A%B8%EB%A6%AC)
 
+### Index Tree
+- **추가 예정**
+
 #### 관련 문제    
 - [1.Best Way(SW Expert Academy : 최적경로)](https://github.com/KimUJin3359/Algorithm_DIvide_and_Conquer_Backtracking/blob/master/BestWay/BestWay/main.cpp)
   - [문제](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AXc2524K9JYDFAWs&contestProbId=AV15OZ4qAPICFAYD&probBoxId=AXfMntvaYoMDFAUO&type=PROBLEM&problemBoxTitle=Day+11%28Divide+and+Conquer+%26+BackTracking%29&problemBoxCnt=2)
